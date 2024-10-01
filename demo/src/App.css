@@ -1,0 +1,22 @@
+body{
+  padding: 100px;
+}
+
+.demo{
+  font-size: 90px;
+  color: aquamarine;
+  margin-left:200px ;
+}
+
+.h1tag{
+  font-size: 90px;
+  color: rgb(26, 189, 204);
+}
+
+.app{
+  font-size: 90px;
+  color: rgb(193, 233, 16);
+  margin-left:300px ;
+  margin-top: 90px;
+}
+

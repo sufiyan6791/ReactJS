@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+text-decoration: none;
+list-style: none;
+font-size: 40px;
+}
+
+ul li{
+    padding: 10px,15px;
+    display: block;
+    cursor: pointer;
+}
+ul li:hover {
+background-color: grey;
+}
+
+.selected{
+    background-color: aqua;
+}
+.button{
+    cursor: pointer;
+}
